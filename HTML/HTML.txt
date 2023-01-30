@@ -1,0 +1,22 @@
+Here I will be writing the things about html.
+Html means Hypertext Markup Language.
+
+Hypertext is the text on webpage which generate or lead us to the subsection of the same website or can also take us to the another website.
+ Markup means the page is divided into various subsections with the help of tags so the area or margin of each tab gets defined ny Markup.
+
+
+ HTML BoilerPlate Code.......:
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+HTML tag in general has two fix children ..
+1)head
+2)body
